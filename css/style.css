@@ -222,6 +222,14 @@ h3.privacy-policy {
   padding-top: 40px;
 }
 
+table.privacy-policy, table.privacy-policy tr, table.privacy-policy td {
+  border: 1px solid #afbac4;
+}
+
+table.privacy-policy td {
+  padding: 4px;
+}
+
 ol,
 ul {
   margin: 0;
